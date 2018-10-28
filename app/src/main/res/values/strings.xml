@@ -1,3 +1,10 @@
 <resources>
+    <!-- APP -->
     <string name="app_name">CBI</string>
+
+    <!-- Cardapio : Menu -->
+    <string name="menu_item">Cardápio</string>
+    <string name="btn_insert_product">Inserir Produto</string>
+
+
 </resources>
