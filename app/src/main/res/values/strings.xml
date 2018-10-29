@@ -4,7 +4,12 @@
 
     <!-- Cardapio : Menu -->
     <string name="menu_item">Cardápio</string>
-    <string name="btn_insert_product">Inserir Produto</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_price">Preço</string>
+    <string name="btn_save">Salvar</string>
 
+    <!-- Contacts -->
+    <string name="contacts_item">Contatos</string>
 
 </resources>

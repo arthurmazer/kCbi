@@ -3,4 +3,6 @@
     <color name="colorPrimary">#f48fb1</color>
     <color name="colorPrimaryDark">#bf5f82</color>
     <color name="colorAccent">#ffc1e3</color>
+
+    <color name="pinkMenu">#ff63b1</color>
 </resources>

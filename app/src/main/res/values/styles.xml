@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CardViewStyle">
+        <item name="android:layout_margin">@dimen/card_view_margin</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+
 </resources>
